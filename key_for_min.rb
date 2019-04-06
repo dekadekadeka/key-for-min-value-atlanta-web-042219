@@ -12,6 +12,6 @@ def key_for_min_value(name_hash)
         lowest_key = name
       end
   end
-  lowest_key
+  puts lowest_key
 end
 key_for_min_value(cobber)
